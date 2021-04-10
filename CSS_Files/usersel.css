@@ -1,0 +1,14 @@
+h1{
+    color:black;
+}
+.mon_from{
+    width: 30%;
+    margin: 5% auto;
+    background-color:white;
+    padding: 20px;
+    text-align:center;
+}
+.button{
+    border:none;
+    transition: 1s;
+}

@@ -1,0 +1,37 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	font-family: sans-serif;
+}
+h1{
+	color:white;
+	font-weight: bold;
+	transition: 0.5s;
+}
+button{
+	border:none;
+	border-radius: 8px;
+	padding: 10px;
+	background:#14bbca; 
+	color:white;
+	letter-spacing: 1.5px;
+	font-size: 15px;
+	transition: 0.5s;
+}
+button:hover,h1:hover{
+	transform: scale(1.1);
+}
+footer {
+	position: relative;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	color: blue;
+	background-color:#E8DAEF;
+	text-align: center;
+}
+footer p{
+	margin: 0;
+	font-size: 15px;
+}

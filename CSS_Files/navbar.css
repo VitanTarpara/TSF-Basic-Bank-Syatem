@@ -1,0 +1,9 @@
+.navbar-brand{
+    color:bisque;
+    letter-spacing: 0.5 px;
+    font-size: 150%;
+}
+.nav-link{
+    color:darkorange;
+    margin-right: 15px;
+}

@@ -1,0 +1,23 @@
+.tabletrans,table{
+    width: 100%;
+    margin: 10% auto;
+    background-color:#ff6347;
+    padding: 20px;
+    text-align:center;
+    letter-spacing: 1.2px;
+}
+table, th, td{
+    border-collapse:separate; 
+    border-spacing:0 30px; 
+}
+.head{
+    color: black;
+    font-size:450%;
+}
+th{
+    text-align:center;
+}
+.button{
+    border:none;
+    transition: 1s;
+}
